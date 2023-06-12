@@ -1,6 +1,5 @@
 # About
-This repository contains the slides for the *How to publish FAIR research outputs* session of the 2023 [AIM RSF Conference](https://uobevents.eventsair.com/alan-turing/), which was organised by the AI for Multiple Long-term Conditions Research Support Facility (AIM RSF) on 26 and 27 April 2023 in Birmingham, UK.
-The session tool place on 27 April at 14:30 BST.
+This repository contains the slides for the *How to publish FAIR research outputs* session on 19 June 2023, part of the 2023 [Research Software Camp: FAIR software](https://software.ac.uk/RSC-fair-software) otganised by the [Software Sustainability Institute](https://software.ac.uk/).
 
 ## Learning objectives
 - ✅ To expand the definition of “research outputs”
@@ -8,7 +7,7 @@ The session tool place on 27 April at 14:30 BST.
 - ✅ To explain how to choose a repository
 - ✅ To demonstrate how to use a repository for archiving research outputs
 
-These slides are partly based on the slides used for a workshop on [FAIR and Frictionless workflows for tabular data](https://github.com/eirini-zormpa/frictionless-data-workshop).
+These slides were originally created for the session of the same name, presented at the [2023 RSF Conference](https://aim-rsf.github.io/training/FAIR-publishing/FAIR-publishing#/title-slide). Those slides were partly based on the slides used for a workshop on [FAIR and Frictionless workflows for tabular data](https://github.com/eirini-zormpa/frictionless-data-workshop).
 
 The images folder includes visualisation created by Scriberia for the Turing Way for convenience.
 If you would like to reuse any of these visualisations, please refer to the [Zenodo repository where they are archived](https://zenodo.org/record/7587336#.ZEot1HbMIV8).
