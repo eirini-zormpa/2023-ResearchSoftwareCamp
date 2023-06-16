@@ -26,21 +26,6 @@ Previously:
 - Doctoral Researcher @ Max Planck Institute for Psycholinguistics :brain:
 :::
 
-## Housekeeping
-
-- If anything is unclear during the talk, please ask clarification questions at any time. Just raise your physical or virtual hand :hand:
-
-. . .
-
-- For longer, content questions, please put them in the Slido for this session - use the code `#aimrsf-opensci`. Don't forget to upvote questions you agree with :thumbsup:
-
-. . .
-
--  We are following the [Events Code of Conduct of The Alan Turing Institute](https://www.turing.ac.uk/events/policies-and-guidelines) :busts_in_silhouette:
-
-. . .
-
-- For online attendees: if you accidentally leave the session, you can just join back in with the same log-in details :link:
 
 ## Learning objectives
 
@@ -507,37 +492,8 @@ Where possible, it's a good idea to use a disclipline-specific repository, usual
 [Registry of research data repositories](https://www.re3data.org/)
 :::
 
-## Health data
 
-::: {.r-stack}
-
-![](images/hdruk.png){.fragment}
-
-![](images/closer.png){.fragment}
-
-![](images/vivli.png){.fragment}
-
-:::
-
-::: aside
-[Health Data Research Innovation Gateway](https://www.healthdatagateway.org/), [Closer](https://covid-19.closer.ac.uk/covid-19-survey-data/), [Vivli](https://vivli.org/)
-:::
-
-## Other human biological data
-
-::: {.r-stack}
-
-![](images/gwas.png){.fragment}
-
-![](images/open-fmri.png){.fragment}
-
-:::
-
-::: aside
-[GWAS Catalog](https://www.ebi.ac.uk/gwas/), [OpenfMRI](https://openfmri.org/)
-:::
-
-## Social Sciences data
+## Data
 
 ![](images/uk-data-service.png)
 
@@ -568,12 +524,6 @@ In that case there are generic repositories that are domain-agnostic and which a
 - :warning: Most resources are Open Access, though embargo and restricted options exist.
 
 ![](images/zenodo.png)
-
-
-
-## Zenodo communities
-
-![](images/ai-mltc-community.png)
 
 ## Demo of data upload {background-color="#F2B705"}
 
