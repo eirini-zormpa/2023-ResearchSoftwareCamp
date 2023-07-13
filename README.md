@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8056274.svg)](https://doi.org/10.5281/zenodo.8056274)
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
 # About
 This repository contains the slides for the *How to publish FAIR research outputs* session on 19 June 2023, part of the 2023 [Research Software Camp: FAIR software](https://software.ac.uk/RSC-fair-software) otganised by the [Software Sustainability Institute](https://software.ac.uk/).
 
